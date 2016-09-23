@@ -12,4 +12,4 @@
 	url = https://github.com/tpope/vim-surround.git
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
-	url = https://github.com/vim-airline/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
