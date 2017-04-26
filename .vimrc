@@ -13,4 +13,5 @@ set hls
 "colorscheme deep-space
 colorscheme smyck
 let g:airline_powerline_fonts = 1
-let g:airline_theme='deep_space'
+"let g:airline_theme='deep_space'
+let g:airline_theme='luna'
