@@ -9,9 +9,9 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set hls
-"colorscheme vividchalk
+colorscheme vividchalk
 "colorscheme deep-space
-colorscheme smyck
+"colorscheme smyck
 let g:airline_powerline_fonts = 1
 "let g:airline_theme='deep_space'
 let g:airline_theme='luna'
