@@ -9,6 +9,17 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set hls
+
+no <Up> <NOP>
+no <Down> <NOP>
+no <Left> <NOP>
+no <Right> <NOP>
+
+ino <Up> <NOP>
+ino <Down> <NOP>
+ino <Left> <NOP>
+ino <Right> <NOP>
+
 colorscheme vividchalk
 "colorscheme deep-space
 "colorscheme smyck
@@ -26,7 +37,7 @@ let g:closetag_filenames = '*.html,*.xhtml,*.phtml'
 let g:closetag_xhtml_filenames = '*.xhtml,*.jsx'
 
 " fix conflict between vim-closetag & delimitMate...
-au FileType xml,html,phtml,xhtml,js let b:delimitMate_matchpairs = "(:),[:],{:}"
+au FileType xml,html,phtml,xhtml,js,htmljinja let b:delimitMate_matchpairs = "(:),[:],{:}"
 
 " integer value [0|1]
 " This will make the list of non closing tags case sensitive (e.g. `<Link>` will be closed while `<link>` won't.)
