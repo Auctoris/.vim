@@ -21,6 +21,8 @@ ino <Left> <NOP>
 ino <Right> <NOP>
 
 colorscheme vividchalk
+"colorscheme cyberpunk
+"colorscheme jellybeans
 "colorscheme deep-space
 "colorscheme smyck
 
