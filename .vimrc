@@ -20,10 +20,10 @@ ino <Down> <NOP>
 ino <Left> <NOP>
 ino <Right> <NOP>
 
-colorscheme vividchalk
+"colorscheme vividchalk
 "colorscheme cyberpunk
 "colorscheme jellybeans
-"colorscheme deep-space
+colorscheme deep-space
 "colorscheme smyck
 
 let g:airline_powerline_fonts = 1
