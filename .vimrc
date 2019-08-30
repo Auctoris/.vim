@@ -10,6 +10,8 @@ set softtabstop=4
 set expandtab
 set hls
 
+set t_Co=256
+
 no <Up> <NOP>
 no <Down> <NOP>
 no <Left> <NOP>
