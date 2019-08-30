@@ -23,7 +23,8 @@ ino <Right> <NOP>
 "colorscheme vividchalk
 "colorscheme cyberpunk
 "colorscheme jellybeans
-colorscheme deep-space
+"colorscheme deep-space
+colorscheme srcery
 "colorscheme smyck
 
 let g:airline_powerline_fonts = 1
