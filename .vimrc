@@ -31,6 +31,11 @@ let g:airline_powerline_fonts = 1
 "let g:airline_theme='deep_space'
 let g:airline_theme='luna'
 
+" Add support for special fonts...
+let g:srcery_italic = 1
+let g:srcery_inverse_matches = 1
+let g:srcery_inverse_match_paren = 1
+
 " filenames like *.xml, *.html, *.xhtml, ...
 " Then after you press > in these files, this plugin will try to close the current tag.
 let g:closetag_filenames = '*.html,*.xhtml,*.phtml'
