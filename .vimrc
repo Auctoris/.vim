@@ -17,6 +17,7 @@ no <Down> <NOP>
 no <Left> <NOP>
 no <Right> <NOP>
 
+inoremap {<Enter> {<Enter>}<Esc>O
 ino <Up> <NOP>
 ino <Down> <NOP>
 ino <Left> <NOP>
