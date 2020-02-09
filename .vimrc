@@ -59,3 +59,6 @@ let g:closetag_shortcut = '>'
 
 " Add > at current position without closing the current tag, default is ''
 let g:closetag_close_shortcut = '<leader>>'
+
+" Add specific 6502 highlighting for .asm files...
+autocmd BufNewFile,BufRead *.asm set syntax=a65
