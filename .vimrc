@@ -27,9 +27,9 @@ ino <Right> <NOP>
 "colorscheme cyberpunk
 "colorscheme jellybeans
 "colorscheme smyck
-"colorscheme deep-space
 "colorscheme srcery
-colorscheme xcodewwdc
+colorscheme deep-space
+"colorscheme xcodewwdc
 
 let g:airline_powerline_fonts = 1
 "let g:airline_theme='deep_space'
